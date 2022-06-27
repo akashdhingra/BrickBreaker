@@ -1,3 +1,5 @@
+package BrickBreaker;
+
 import javax.swing.*;
 
 public class Main {
