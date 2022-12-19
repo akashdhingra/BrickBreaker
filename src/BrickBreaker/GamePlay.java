@@ -15,6 +15,7 @@ public class GamePlay extends JPanel implements KeyListener, ActionListener {
 
     @Override
     public void keyTyped(KeyEvent e) {
+        //This is typed just for testing
 
     }
 
