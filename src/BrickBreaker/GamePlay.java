@@ -16,12 +16,13 @@ public class GamePlay extends JPanel implements KeyListener, ActionListener {
     @Override
     public void keyTyped(KeyEvent e) {
         //This is typed just for testing
-        System.out.println("Hello");
 
     }
 
     @Override
     public void keyPressed(KeyEvent e) {
+        System.out.println("Only checking again");
+        System.out.println("Previous code is not merged");
 
     }
 
